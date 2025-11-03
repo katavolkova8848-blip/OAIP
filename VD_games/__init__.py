@@ -1,1 +1,1 @@
-
+"""Brain Games package."""

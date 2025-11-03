@@ -22,4 +22,6 @@ dev = [
 
 [project.scripts]
 VD-games = "VD_games.scripts.VD_games:main"
-VD-even = "VD_games.scripts.VD_even:run_even_game"
+VD-even = "VD_games.scripts.VD_even:main"
+VD-calc = "VD_games.scripts.brain_calc:main"
+VD-gcd = "VD_games.scripts.VD_gcd:main"

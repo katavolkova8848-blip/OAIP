@@ -39,5 +39,10 @@ def run_even_game():
     print(f"Congratulations, {name}!")
 
 
-if __name__ == "__main__":
+def main():
+    """Entry point for VD-even."""
     run_even_game()
+
+
+if __name__ == "__main__":
+    main()
